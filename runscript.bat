@@ -1,0 +1,1 @@
+mysql --user=root --password=admin < lyza_system.sql
